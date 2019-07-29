@@ -6,7 +6,9 @@
 
   -Users can save these measurement datas by adding descriptions to them and these can be viewed at any time through the application.
 
-  -Full thesis report is attached.
+  -Full thesis report is attached. Its the most detailed definition of every aspect of the project.
+  
+  -The project codes contain some Turkish comments that do not need to be understood.
 
 # Requirements
 
