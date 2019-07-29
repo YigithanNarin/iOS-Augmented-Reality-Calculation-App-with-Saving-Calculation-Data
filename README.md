@@ -1,5 +1,7 @@
 # Augmented Reality Ruler Application
 
+![](ARRuler/Assets.xcassets/AppIcon.appiconset/Icon-120.png)
+
   -AR Ruler is a simple and convenient application that should be on smartphones. Users are able to measure distance, angle and area of an object by just pointing the cameras of the phones to the objects they want to measure.
 
   -Users can save these measurement datas by adding descriptions to them and these can be viewed at any time through the application.
