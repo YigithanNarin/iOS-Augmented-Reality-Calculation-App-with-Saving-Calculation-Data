@@ -4,7 +4,7 @@
 
   -AR Ruler is a simple and convenient application that should be on smartphones. Users are able to measure distance, angle and area of an object by just pointing the cameras of the phones to the objects they want to measure.
 
-  -Users can save these measurement datas by adding descriptions to them and these can be viewed at any time through the application.
+  -Users can save these measurement data by adding descriptions to them and these can be viewed at any time through the application.
 
   -Full thesis report is attached. Its the most detailed definition of every aspect of the project.
   
