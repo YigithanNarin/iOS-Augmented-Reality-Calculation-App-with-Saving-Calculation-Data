@@ -8,8 +8,8 @@
 
 # Requirements
 
-   -Swift 4.0
-   -iOS 11.0
-   -Xcode 9.0
+   - Swift 4.0
+   - iOS 11.0
+   - Xcode 9.0
 
 Created by Yigithan Narin on 21.04.2019. Copyright © 2019 Yigithan Narin. All rights reserved.
